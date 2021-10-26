@@ -24,7 +24,6 @@ Classifier: Programming Language :: Python :: 3.6
 Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
-License-File: LICENSE.txt
 Requires-Dist: pandas (>=0.24)
 Requires-Dist: numpy (>=1.15)
 Requires-Dist: requests (>=2.20)
